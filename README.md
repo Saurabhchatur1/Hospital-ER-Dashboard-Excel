@@ -45,6 +45,6 @@ Used for date-based analysis:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](Hospital-ER-Dashboard-Excel/Final Dashboard.png)
+![Dashboard Screenshot](images/Final-Dashboard.png)
 
 
