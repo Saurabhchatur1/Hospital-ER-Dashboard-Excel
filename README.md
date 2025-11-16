@@ -32,7 +32,12 @@ This dashboard provides clear, actionable visual insights for better management 
 - **Patient Age Distribution** (Histogram or Bar Chart)  
 - **Timeliness Performance** (Within 30 min vs Delayed)  
 - **Gender Distribution**  
-- **Department Referrals** (Most visited departments)  
+- **Department Referrals** (Most visited departments)
+
+- 
+- # Final Dashboard 
+![image alt](https://github.com/Saurabhchatur1/Hospital-ER-Dashboard-Excel/blob/adf8f053b3a407a0b6dea7da7de416f24e2bc860/Final_Dashboard.png)
+
 
 
 🧮 **Important Formulas Used**
@@ -43,7 +48,5 @@ Used for date-based analysis:
 ```text
 = List.Dates(#date(2023,01,01), 731, #duration(1,0,0,0))
 
-# Final Dashboard 
-![image alt](https://github.com/Saurabhchatur1/Hospital-ER-Dashboard-Excel/blob/adf8f053b3a407a0b6dea7da7de416f24e2bc860/Final_Dashboard.png)
 
 
