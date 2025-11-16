@@ -34,7 +34,6 @@ This dashboard provides clear, actionable visual insights for better management 
 - **Gender Distribution**  
 - **Department Referrals** (Most visited departments)  
 
----
 
 🧮 **Important Formulas Used**
 
@@ -46,5 +45,6 @@ Used for date-based analysis:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](images/Final Dashboard.png)
+![Dashboard Screenshot](Hospital-ER-Dashboard-Excel/Final Dashboard.png)
+
 
