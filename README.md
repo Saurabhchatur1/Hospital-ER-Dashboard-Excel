@@ -43,3 +43,8 @@ Used for date-based analysis:
 
 ```text
 = List.Dates(#date(2023,01,01), 731, #duration(1,0,0,0))
+
+## 📷 Dashboard Preview
+
+![Dashboard Screenshot](images/Final Dashboard.png)
+
